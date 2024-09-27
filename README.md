@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sivakumar Palanirajan
-- 👀 I’m interested in all sorts of tech around AI cuz it's simply fascinating
-- 🙌 I’m looking to collaborate on anything that even has slight influence of Machine Learning 
+- 👀 I’m interested in all sorts of tech around Data Science
+- 🙌 I’m looking to collaborate on anything Machine Learning 
 - 📫 LinkedIn: www.linkedin.com/in/sivakumar-palanirajan-866a5027b
 
 
